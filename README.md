@@ -8,5 +8,7 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 ### January
 
+* [03](2018/january/03.md)
+* [02](2018/january/02.md)
 * [01](2018/january/01.md)
 
