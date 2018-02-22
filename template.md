@@ -14,7 +14,7 @@
  
 ## :skull: Currently
 
-* :book: _Business @ the Speed of Thought: Succeeding in the Digital Economy_ | :running: %
+* :book:  | :running: %
 * :headphones: []()
 
 ---
