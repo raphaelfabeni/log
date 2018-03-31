@@ -8,6 +8,7 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 ### March
 
+* [19](2018/march/19.md)
 * [18](2018/march/18.md)
 * [17](2018/march/17.md)
 
