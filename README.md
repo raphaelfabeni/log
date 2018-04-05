@@ -6,6 +6,10 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 ## :calendar: 2018
 
+### April
+
+* [20](2018/april/20.md)
+
 ### March
 
 * [19](2018/march/19.md)
