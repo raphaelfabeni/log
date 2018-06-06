@@ -6,9 +6,12 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 ## :calendar: 2018
 
+### June
+
+* [24](2018/june/24.md)
+
 ### May
 
-* [24](2018/may/24.md)
 * [23](2018/may/23.md)
 * [22](2018/may/22.md)
 
