@@ -8,6 +8,7 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 ### June
 
+* [25](2018/june/25.md)
 * [24](2018/june/24.md)
 
 ### May
