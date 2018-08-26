@@ -6,6 +6,10 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 ## :calendar: 2018
 
+### August
+
+* [28](2018/august/28.md)
+
 ### July
 
 * [27](2018/july/27.md)
