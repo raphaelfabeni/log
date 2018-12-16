@@ -8,7 +8,7 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 ### December
 
-* [30](2018/december/31.md)
+* [31](2018/december/31.md)
 
 ### November
 
