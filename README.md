@@ -6,6 +6,10 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 ## :calendar: 2018
 
+### December
+
+* [30](2018/december/31.md)
+
 ### November
 
 * [30](2018/november/30.md)
