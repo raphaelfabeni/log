@@ -4,6 +4,12 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 > “The past is done. The future has plenty of room for change.”
 
+## :calendar: 2019
+
+### January
+
+* [32](2019/december/32.md)
+
 ## :calendar: 2018
 
 ### December
