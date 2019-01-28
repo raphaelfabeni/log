@@ -8,6 +8,7 @@ Inspired by my friend [Mendrone](https://twitter.com/vhmendrone), I created this
 
 ### January
 
+* [33](2019/january/33.md)
 * [32](2019/january/32.md)
 
 ## :calendar: 2018
